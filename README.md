@@ -1,4 +1,3 @@
-# rabat_explorer
 # Rabat Explorer
 
 ## Introduction
